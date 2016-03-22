@@ -1,3 +1,8 @@
+#homework list
+[Homework3.md](https://github.com/zqbinggong/computational-physics_N2013301020039/blob/master/Homework3.md)
+[chapter1](https://github.com/zqbinggong/computational-physics_N2013301020039/blob/master/chapter1.md)
+
+
 #*The Best Man,U are WHERE!*
 #——————a miraculous adventure
 He is the **`best teacher`** in the world!<br>So who is he?<br>He write down the **`formula`** in the class.And the fomula is........er..sorry, i have forgotten it![](http://wanzao2.b0.upaiyun.com/system/pictures/27229652/original/1439130951_500x500.png)<br>
