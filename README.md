@@ -1,6 +1,6 @@
 #homework list
-[Homework3.md](https://github.com/zqbinggong/computational-physics_N2013301020039/blob/master/Homework3.md) <br>
-[chapter1](https://github.com/zqbinggong/computational-physics_N2013301020039/blob/master/chapter1.md)
+1.[Homework3.md](https://github.com/zqbinggong/computational-physics_N2013301020039/blob/master/Homework3.md) <br>
+2.[chapter1](https://github.com/zqbinggong/computational-physics_N2013301020039/blob/master/chapter1.md)
 
 
 #*The Best Man,U are WHERE!*
