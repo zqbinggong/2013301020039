@@ -57,7 +57,7 @@ store(v, t, n)
 ymin=min(v)
 ymax=max(v)
 v_t= ymin
-plot([0,ymax],[v_t,v_t], color='red', linewidth=2.5, linestyle="--")
+plot([0,ymax],[v_t,v_t],label='the terminal speed', color='red', linewidth=2.5, linestyle="--")
 
 xmin, xmax = min(t), max(t)
 ymin, ymax = int(min(v)), round(max(v))
