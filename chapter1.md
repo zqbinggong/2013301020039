@@ -8,11 +8,11 @@
 
 ##正文
 1.该运动方程用泰勒展开后可以近似表示为<br> ![](http://www.sciweavers.org/tex2img.php?eq=v%28%20%5CDelta%20t%29%3Dv%280%29%2Ba%20%5CDelta%20t-bv%20%5CDelta%20t&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
-  当我们把时间间隔去的十分小的时候就能有很好的近似结果
+  当我们把时间间隔去的十分小的时候就能有很好的近似结果<br>
 2.参数设置
-  所有蚕食都是由用户根据自己的实际情况设置，程序运行时会提示用户输入要输入的参数
-3.绘制图表的工具为matplotlib
-4.源代码地址 [chapter1.py](https://github.com/zqbinggong/computational-physics_N2013301020039/blob/master/chapter1.py)
-5.效果展示
+  所有蚕食都是由用户根据自己的实际情况设置，程序运行时会提示用户输入要输入的参数<br>
+3.绘制图表的工具为matplotlib<br>
+4.源代码地址 [chapter1.py](https://github.com/zqbinggong/computational-physics_N2013301020039/blob/master/chapter1.py) <br>
+5.效果展示<br>
   按照书上的推荐，设置a=10，b=1，取v=100，dt=0.1，t=100
-  ![](
+  
