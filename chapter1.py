@@ -1,4 +1,4 @@
-## programming to solve fall-with-resistance model and provide a diagrammatic analysis
+# programming to solve fall-with-resistance model and provide a diagrammatic analysis
 # written by zhangqinag, last modified on 2016/03/22
 from pylab import *
 import pickle
