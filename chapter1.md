@@ -15,4 +15,10 @@
 4.源代码地址 [chapter1.py](https://github.com/zqbinggong/computational-physics_N2013301020039/blob/master/chapter1.py) <br>
 5.效果展示<br>
   按照书上的推荐，设置a=10，b=1，取v=100，dt=0.1，t=100
-  
+  ![](http://imgsrc.baidu.com/forum/pic/item/043dc08ba61ea8d3e61e59b7900a304e241f588f.jpg)     当时间趋于无穷大时，速度将趋于不变，即terminal speed
+
+##结论
+  此程序节本能够完成书上习题的要求
+ 
+##致谢
+感谢刘文焘同学在调整坐标轴刻度时提供的帮助！
