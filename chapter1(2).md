@@ -20,9 +20,9 @@ chapter1第二次作业选取了书上的习题1.6，关于人口增长问题的
 4.源代码地址 [chapter1-2.py](https://github.com/zqbinggong/computational-physics_N2013301020039/blob/master/chapter1-2.py) <br>
 
 5.效果展示
-a.取N=10，a=10,b=3 ![](http://imgsrc.baidu.com/forum/w%3D580/sign=f2a567bda8c379317d688621dbc5b784/0dee6ff5e0fe99253664cceb33a85edf8cb1716c.jpg)
-b.取N=100，a=bN=10,b=0.1 ![](http://imgsrc.baidu.com/forum/w%3D580/sign=f1af12895dafa40f3cc6ced59b65038c/aad1bffaaf51f3de36d01cdf93eef01f3b297976.jpg)
-c. N=1000，a=10,b=3 ![](http://imgsrc.baidu.com/forum/w%3D580/sign=ae1c3dc0d61373f0f53f6f97940e4b8b/4101e5efce1b9d1682a53fdaf4deb48f8d546476.jpg)
+a.取N=10，a=10,b=3 ![](http://imgsrc.baidu.com/forum/w%3D580/sign=f2a567bda8c379317d688621dbc5b784/0dee6ff5e0fe99253664cceb33a85edf8cb1716c.jpg) <br>
+b.取N=100，a=bN=10,b=0.1 ![](http://imgsrc.baidu.com/forum/w%3D580/sign=f1af12895dafa40f3cc6ced59b65038c/aad1bffaaf51f3de36d01cdf93eef01f3b297976.jpg) <br>
+c. N=1000，a=10,b=3 ![](http://imgsrc.baidu.com/forum/w%3D580/sign=ae1c3dc0d61373f0f53f6f97940e4b8b/4101e5efce1b9d1682a53fdaf4deb48f8d546476.jpg) <br>
 d.N=5,a=0.2,b=0.01 ![](http://imgsrc.baidu.com/forum/w%3D580/sign=7cb83bef044f78f0800b9afb49300a83/bb93d6eef01f3a29aaa070759e25bc315d607c6c.jpg)
 
 ##结论
