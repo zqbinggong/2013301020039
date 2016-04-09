@@ -3,6 +3,8 @@
 2.[chapter1](https://github.com/zqbinggong/computational-physics_N2013301020039/blob/master/chapter1.md) <br>
 3.chapter1 第二次作业 [chapter1(2)](https://github.com/zqbinggong/computational-physics_N2013301020039/blob/master/chapter1(2).md)
 
+#exercise list
+1.用vpython模拟的小球在两个板子之间的运动 [ball.py](https://github.com/zqbinggong/computational-physics_N2013301020039/blob/master/ball.py)
 
 #*The Best Man,U are WHERE!*
 #——————a miraculous adventure
