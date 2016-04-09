@@ -28,3 +28,5 @@ while 1:
         ball.velocity.y = -ball.velocity.y    
     else:  
         ball.velocity.y = ball.velocity.y - 9.8*dt  #move with gravitation
+show()
+savefig("test_.jpg")
