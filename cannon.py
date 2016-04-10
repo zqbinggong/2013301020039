@@ -7,7 +7,7 @@ import time
 import numpy 
 from matplotlib import pyplot 
 from matplotlib import animation
-
+from pylab import *
 # some paremeters and initial information
 g = 9.8
 B2m = 4e-5
@@ -103,7 +103,7 @@ dx = (xmax - xmin) * 0.1
 dy = (ymax - ymin) * 0.2
 ax = pyplot.axes(xlim=(xmin, xmax + dx), ylim=(ymin, ymax + dy))
 line, = ax.plot([], [])
-savefig("test_.jpg1")
+
 
 # draw the cannon
 pyplot.plot([x_t-200,x_t-200], [y_t-50,y_t+50], color='blue', linewidth=5, linestyle="-")
@@ -156,5 +156,4 @@ def animate(i):
 
 anim = animation.FuncAnimation(fig, animate, init_func=initAnimation, interval=20, blit=True)
 pyplot.show()
-
 
