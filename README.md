@@ -5,7 +5,7 @@
 4.[chapter2 L2 2.10](https://www.zybuluo.com/zqbinggong/note/339693)
 
 #exercise list
-1.用vpython模拟的小球在两个板子之间的运动 [ball.py](https://github.com/zqbinggong/computational-physics_N2013301020039/blob/master/ball.py)
+1.用vpython模拟的小球在两个板子之间的运动 [ball](https://www.zybuluo.com/zqbinggong/note/339918)
 
 #*The Best Man,U are WHERE!*
 #——————a miraculous adventure
