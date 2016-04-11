@@ -3,7 +3,7 @@
 2.[chapter1](https://github.com/zqbinggong/computational-physics_N2013301020039/blob/master/chapter1.md) <br>
 3.chapter1 第二次作业 [chapter1(2)](https://github.com/zqbinggong/computational-physics_N2013301020039/blob/master/chapter1(2).md) <br>
 4.[chapter2 L2 2.10](https://www.zybuluo.com/zqbinggong/note/339693)<br>
-5.[chapter2 使用vpython可视化炮弹发射或者棒球运动](https://www.zybuluo.com/zqbinggong/note/341116)
+5.[chapter2 使用vpython可视化炮弹发射或者棒球运动]https://www.zybuluo.com/zqbinggong/note/341116)
 
 #exercise list
 1.用vpython模拟的小球在两个板子之间的运动 [ball](https://www.zybuluo.com/zqbinggong/note/339918)
