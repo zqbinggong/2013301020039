@@ -1,19 +1,27 @@
 # programmim to show the 3D trajctory of cannon by using the vpython
 # written by zhangqiang, last modified on 2016/04/10
+import easygui as ea
 import sys
 import math
 import time
 from visual import *
 
-# some arguments
+# use easygui to input some arguments
 g = vector(0, -9.8, 0)
 B2m = 4e-5
 initSpeed = 1000.
-hit_area = float(raw_input('please input the hit_area : '))
-x_t = float(raw_input('please enter the x_component of the target : '))
-y_t = float(raw_input('please enter the y_component of the target : '))
-z_t = float(raw_input('plesae enter the z_component of the target : '))
-h = float(raw_input('please enter 0 for isothermal gas or 1 for adiabatic gas : '))   #to determine the approximation approach
+
+title='3Dcannon'
+h = ea.buttonbox('Please choose approximate method,0 for isothermal,1for adiabatic', title, choices=('0','1'),image='1.gif')
+hit_area = ea.enterbox('please enter hit_area',title,image='2.gif')
+x_t = ea.enterbox('please enter x-component of the target:',title,image='2.gif')
+y_t = ea.enterbox('please enter x-component of the target:',title,image='2.gif')
+z_t = ea.enterbox('please enter x-component of the target:',title,image='2.gif')
+h=int(h)
+hit_area=int(hit_area)
+x_t=int(x_t)
+y_t=int(y_t)
+z_t=int(z_t)
 sign = 1
 
 # some global variate
@@ -177,7 +185,7 @@ def shoot(object):
     scene.forward = (-1, 0, 0)
     storeData(target, object)
     while True:
-        rate(100)
+        rate(1000)
         object.trail.append(pos=object.pos)
         updatePositon([object], deltat)
         if object.pos.y < -1000:
