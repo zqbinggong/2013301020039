@@ -6,9 +6,14 @@
 7.[chapter2 使用vpython可视化炮弹发射或者棒球运动](https://www.zybuluo.com/zqbinggong/note/341116)<br>
 8.[chapter3,exercise3.4](https://www.zybuluo.com/zqbinggong/note/350635)<br>
 9.[chapter3,level1-2](https://www.zybuluo.com/zqbinggong/note/357243)<br>
+<<<<<<< HEAD
 10.[cahpter3,exercise3.29](https://www.zybuluo.com/zqbinggong/note/369822) <br>
 11.[cahpter4](https://www.zybuluo.com/zqbinggong/note/373208) <br>
 12.[cahpter4,4.16](https://www.zybuluo.com/zqbinggong/note/386156) <br>
+=======
+10.[chapter3,exercise3.29](https://www.zybuluo.com/zqbinggong/note/369822) <br>
+11.[chapter4](https://www.zybuluo.com/zqbinggong/note/373208) <br>
+>>>>>>> ba5c8cf1a51c39726309c47f75955bfc56fa4d5f
 #exercise list
 1.用vpython模拟的小球在两个板子之间的运动 [ball](https://www.zybuluo.com/zqbinggong/note/339918)
 <br>
