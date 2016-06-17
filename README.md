@@ -9,7 +9,8 @@
 10.[chapter3,exercise3.29](https://www.zybuluo.com/zqbinggong/note/369822) <br>
 11.[chapter4](https://www.zybuluo.com/zqbinggong/note/373208) <br>
 12.[chapter4,4.16](https://www.zybuluo.com/zqbinggong/note/386156)<br>
-13.[chapter5,5.3(to be continued)](https://www.zybuluo.com/zqbinggong/note/395685)<br>
+13.[chapter5,5.3](https://www.zybuluo.com/zqbinggong/note/395685)<br>
+14.[chapter6,6.6](https://www.zybuluo.com/zqbinggong/note/410545)<br>
 #exercise list
 1.用vpython模拟的小球在两个板子之间的运动 [ball](https://www.zybuluo.com/zqbinggong/note/339918)
 <br>
